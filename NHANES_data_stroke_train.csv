@@ -1,4 +1,4 @@
-SEQN,Income,Sex,Age,Race,Edu,Diastolic,Systolic,Pulse,BMI,HDL,Trig,LDL,TCHOL,kidneys_eGFR,Diabetes,CurrentSmoker,isActive,isInsured,stroke
+ParticipantID,Income,Sex,Age,Race,Edu,Diastolic,Systolic,Pulse,BMI,HDL,Trig,LDL,TCHOL,kidneys_eGFR,Diabetes,CurrentSmoker,isActive,isInsured,stroke
 1001,3.5,1,35,3,NA,71.33333333,119.6666667,69.66666667,41.8,35,264,92,165,120.6884793,2,2,1,1,2
 1002,1.3,2,69,3,5,67.33333333,112.6666667,66,31.6,44,219,257,345,86.48850795,2,1,1,1,2
 1003,4,2,66,1,NA,59,108.6666667,59.66666667,30.8,69,102,156,247,68.7527099,2,2,1,1,2
